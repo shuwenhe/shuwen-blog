@@ -1,7 +1,7 @@
 # 配置
 service_name = shuwen-checklist
-# config_path = config/dev.yaml
-config_path = config/app.ini
+config_path = config/dev.yaml
+# config_path = config/app.ini
 tag = dev
 
 .PHONY:help
